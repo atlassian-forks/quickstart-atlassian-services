@@ -1,3 +1,6 @@
+# This project has been archived, please go to:
+https://github.com/atlassian/quickstart-atlassian-services
+
 # quickstart-atlassian-services
 ## Atlassian Standard Infrastructure on the AWS Cloud
 
